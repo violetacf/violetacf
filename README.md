@@ -25,16 +25,13 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/violetacf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/violeta-cf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/viocodingleta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/violetacf"><img src="https://github-readme-stats.vercel.app/api?username=violetacf&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=a855f7&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="violetacf's GitHub stats" /></a><a
-                      href="http://www.github.com/violetacf"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=violetacf&stroke=a855f7&background=181824&ring=0891b2&fire=0891b2&currStreakNum=a855f7&currStreakLabel=0891b2&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/violetacf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/violeta-cf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/viocodingleta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/violetacf"><img src="https://github-readme-stats.vercel.app/api?username=violetacf&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=a855f7&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="violetacf's GitHub stats" /></a>
+
+<a href="http://www.github.com/violetacf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=violetacf&stroke=a855f7&background=181824&ring=0891b2&fire=0891b2&currStreakNum=a855f7&currStreakLabel=0891b2&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
