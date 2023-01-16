@@ -1,8 +1,3 @@
-Hi 👋 My name is Violeta
-========================
-
-Student at the School of Code
------------------------------
 <h1 align="center">Hi 👋, I'm Violeta</h1>
 <h3 align="center">A passionate Full-stack developer from Madrid, based in Bristol</h3>
 
@@ -12,15 +7,23 @@ Student at the School of Code
 
 <p align="left"> <a href="https://twitter.com/viocondingleta" target="blank"><img src="https://img.shields.io/twitter/follow/viocondingleta?logo=twitter&style=for-the-badge" alt="viocondingleta" /></a> </p>
 
+After studying Primary Teaching and working as a SEND Tutor, I switched careers to become a Full-Stack Developer. I believe my experience makes me aware of the needs of people that might not have the voice to give feedback, and I can make a difference towards making sites more accessible to the users.
+
+- 🌍 I'm based in Bristol
+
 - 🔭 I’m currently working on [my side project](addherelinkwhendeployed)
 
 - 🌱 I’m currently learning **AWS, TypeScript, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://violeta-portfolio.onrender.com/](https://violeta-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [my personal site](https://violeta-portfolio.onrender.com/)
 
 - 📫 How to reach me **violeta@cique.es**
 
-- ⚡ Fun fact **Sometimes I say IPA instead of API, I blame English as a second language, but I can't explain why it usually happens on Fridays**
+- 🤝  I'm open to collaborating on any group projects that might interest me!
+
+- ⚡  Some of my hobbies/interests are video games, plants, environment, education and accessibility, fitness, puzzles and escape rooms
+
+- ⚡ Fun fact: **Sometimes I say IPA instead of API, I blame English as a second language, but I can't explain why it usually happens on Fridays**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,16 +39,6 @@ Student at the School of Code
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=violetacf&show_icons=true&locale=en" alt="violetacf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=violetacf&" alt="violetacf" /></p>
-
-After studying Primary Teaching and working as a SEND Tutor, I switched careers to become a Full-Stack Developer. I believe my experience makes me aware of the needs of people that might not have the voice to give feedback, and I can make a difference towards making sites more accessible to the users.
-
-*   🌍  I'm based in Bristol
-*   💻 You can see here [my_protfolio]([https://violeta-portfolio.onrender.com/])
-*   ✉️  You can contact me at [violeta@cique.es](mailto:violeta@cique.es)
-*   🚀  I'm currently working on [my_side_project]([https://violeta-portfolio.onrender.com/])
-*   🧠  I'm learning TypeScript, AWS
-*   🤝  I'm open to collaborating on any group projects that might interest me!
-*   ⚡  Some of my hobbies/interests are video games, plants, environment, education and accessibility, fitness, puzzles and escape rooms
 
 ### Skills 
 <p align="left">
