@@ -7,9 +7,9 @@ Student at the School of Code
 After studying Primary Teaching and working as a SEND Tutor, I switched careers to become a Full-Stack Developer. I believe my experience makes me aware of the needs of people that might not have the voice to give feedback, and I can make a difference towards making sites more accessible to the users.
 
 *   🌍  I'm based in Bristol
-*   💻 You can see here [my protfolio]([https://violeta-portfolio.onrender.com/])
+*   💻 You can see here [my_protfolio]([https://violeta-portfolio.onrender.com/])
 *   ✉️  You can contact me at [violeta@cique.es](mailto:violeta@cique.es)
-*   🚀  I'm currently working on [my side project]([http://addhere])
+*   🚀  I'm currently working on [my_side_project]([http://addhere])
 *   🧠  I'm learning TypeScript, AWS
 *   🤝  I'm open to collaborating on any group projects that might interest me!
 *   ⚡  Some of my hobbies/interests are video games, plants, environment, education and accessibility, fitness, puzzles and escape rooms
