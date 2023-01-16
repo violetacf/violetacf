@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Violeta</h1>
 <h3 align="center">A passionate Full-stack developer from Madrid, based in Bristol</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=violetacf&label=Profile%20views&color=0e75b6&style=flat" alt="violetacf" /> </p>
-
 After studying Primary Teaching and working as a SEND Tutor, I switched careers to become a Full-Stack Developer. I believe my experience makes me aware of the needs of people that might not have the voice to give feedback, and I can make a difference towards making sites more accessible to the users.
 
 - 🌍 I'm based in Bristol
