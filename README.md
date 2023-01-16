@@ -11,7 +11,7 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 
 - 🌱 I’m currently learning **AWS, TypeScript, Tailwind**
 
-- 👨‍💻 All of my projects are available at [my personal site](https://violeta-portfolio.onrender.com/)
+- 👩‍💻 All of my projects are available at [my personal site](https://violeta-portfolio.onrender.com/)
 
 - 📫 How to reach me **violeta@cique.es**
 
