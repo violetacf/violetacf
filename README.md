@@ -15,9 +15,9 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 
 - 📫 How to reach me **violeta@cique.es**
 
-- 🤝  I'm open to collaborating on any group projects that might interest me!
+- 🤝 I'm open to collaborating on any group projects that might interest me!
 
-- ⚡  Some of my hobbies/interests are video games, plants, environment, education and accessibility, fitness, puzzles and escape rooms
+- ⚡ Some of my hobbies/interests are video games, plants, environment, education and accessibility, fitness, puzzles and escape rooms
 
 - ⚡ Fun fact: **Sometimes I say IPA instead of API, I blame English as a second language, but I can't explain why it usually happens on Fridays**
 
