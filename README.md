@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Violeta</h1>
-<h3 align="center">A passionate Full-stack developer from Madrid, based in Bristol</h3>
+<h3 align="center">A passionate Full-stack developer from Madrid</h3>
 
 After studying Primary Teaching and working as a SEND Tutor, I switched careers to become a Full-Stack Developer. I believe my experience makes me aware of the needs of people that might not have the voice to give feedback, and I can make a difference towards making sites more accessible to the users.
 
-- 🌍 I'm based in Bristol
+- 🌍 I'm based in Europe
 
-- 🌱 I’m currently learning **AWS, TypeScript, Tailwind**
+- 🌱 I’m currently learning **Flutter, Dart, Go, Vue** on my current job, sadly using GitLab with them and not yet have any personal repos.
 
 - 💮 At the moment I am working on a [florist website](https://lilybloom.onrender.com/) for a friend 
 
