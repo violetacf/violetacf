@@ -13,12 +13,15 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 ---
 
 <h3 align="left">Hobbies & Fun Facts</h3>
-<p align="left">
-  🎮 Video games: <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" height="50"/>
-  🌱 Plants: <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="50" height="50"/>
-  🧩 Puzzles & Escape rooms: <img src="https://media.giphy.com/media/l41lYvUOmS0Cx4Lfa/giphy.gif" width="50" height="50"/>
-  ⚡ Fun fact: Sometimes I say IPA instead of API — <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="50" height="50"/>
-</p>
+<ul>
+  <li>🎮 Video games: <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="50" height="50" alt="Video games"/></li>
+  <li>🌱 Plants: <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="50" height="50" alt="Plants"/></li>
+  <li>🌍 Environment & sustainability: <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="50" height="50" alt="Environment"/></li>
+  <li>📚 Education & accessibility: <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50" height="50" alt="Education"/></li>
+  <li>💪 Fitness: <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50" height="50" alt="Fitness"/></li>
+  <li>🧩 Puzzles & escape rooms: <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="50" height="50" alt="Puzzles"/></li>
+  <li>⚡ Fun fact: Sometimes I say IPA instead of API — <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="50" height="50" alt="Fun fact"/></li>
+</ul>
 
 ---
 
@@ -33,26 +36,26 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="40" height="40"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+
   <!-- Backend / Cloud -->
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+
   <!-- Tools / Design -->
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://slack.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/></a>
 
   <!-- Testing -->
-  <a href="https://www.cypress.io/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/></a>
-  
+  <a href="https://www.cypress.io/" target="_blank"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
+
   <!-- API / Postman -->
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
 </p>
 
 ---
