@@ -13,15 +13,12 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 
 ---
 
-<ul>
-  <li>🎮 Video games <img src="https://img.shields.io/badge/Fun-High-ff69b4?style=flat-square" alt="Fun"/></li>
-  <li>🌱 Plants <img src="https://img.shields.io/badge/Relaxing-Yes-76c893?style=flat-square" alt="Plants"/></li>
-  <li>🌍 Environment & sustainability <img src="https://img.shields.io/badge/Impact-Positive-4caf50?style=flat-square" alt="Environment"/></li>
-  <li>📚 Education & accessibility <img src="https://img.shields.io/badge/Passion-High-f4c430?style=flat-square" alt="Education"/></li>
-  <li>💪 Fitness <img src="https://img.shields.io/badge/Healthy-Yes-ff4500?style=flat-square" alt="Fitness"/></li>
-  <li>🧩 Puzzles & escape rooms <img src="https://img.shields.io/badge/Challenging-Yes-1e90ff?style=flat-square" alt="Puzzles"/></li>
-  <li>⚡ Fun fact: Sometimes I say IPA instead of API — English is to blame!</li>
-</ul>
+<h3 align="left">Hobbies & Fun Facts</h3>
+<p>
+  🎮 Video games &nbsp; 🌱 Plants &nbsp; 🌍 Environment & sustainability <br>
+  📚 Education & accessibility &nbsp; 💪 Fitness &nbsp; 🧩 Puzzles & escape rooms <br>
+  ⚡ Fun fact: Sometimes I say IPA instead of API — English is to blame!
+</p>
 
 ---
 
@@ -36,32 +33,32 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>&nbsp;</a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue"/>&nbsp;</a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>&nbsp;</a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;</a>
 
   <!-- Backend / Cloud -->
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>&nbsp;</a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>&nbsp;</a>
 
   <!-- Tools / Design -->
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;</a>
+  <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>&nbsp;</a>
 
   <!-- Testing -->
-  <a href="https://www.cypress.io/" target="_blank"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
+  <a href="https://www.cypress.io/" target="_blank"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>&nbsp;</a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>&nbsp;</a>
 
   <!-- API / Postman -->
-  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>&nbsp;</a>
 </p>
 
 ---
 
 <h3 align="left">GitHub Stats</h3>
-<p align="left">
+<p align="center">
   <a href="http://www.github.com/violetacf"><img src="https://github-readme-stats.vercel.app/api?username=violetacf&show_icons=true&count_private=true&title_color=0891b2&text_color=a855f7&icon_color=14b8a6&bg_color=181824&hide_border=true" alt="GitHub Stats" /></a>
   <a href="http://www.github.com/violetacf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=violetacf&stroke=a855f7&background=181824&ring=0891b2&fire=0891b2&currStreakNum=a855f7&currStreakLabel=0891b2&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="Streak Stats" /></a>
 </p>
