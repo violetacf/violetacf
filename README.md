@@ -14,13 +14,34 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 
 <h3 align="left">Hobbies & Fun Facts</h3>
 <ul>
-  <li>🎮 Video games: <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="50" height="50" alt="Video games"/></li>
-  <li>🌱 Plants: <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="50" height="50" alt="Plants"/></li>
-  <li>🌍 Environment & sustainability: <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="50" height="50" alt="Environment"/></li>
-  <li>📚 Education & accessibility: <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50" height="50" alt="Education"/></li>
-  <li>💪 Fitness: <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50" height="50" alt="Fitness"/></li>
-  <li>🧩 Puzzles & escape rooms: <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="50" height="50" alt="Puzzles"/></li>
-  <li>⚡ Fun fact: Sometimes I say IPA instead of API — <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="50" height="50" alt="Fun fact"/></li>
+  <li style="display:flex; align-items:center; gap:15px; margin-bottom:10px;">
+    🎮 Video games: 
+    <img src="https://media.giphy.com/media/3orieZ8ev8QtKz6EPC/giphy.gif" width="60" height="60" alt="Video games" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </li>
+  <li style="display:flex; align-items:center; gap:15px; margin-bottom:10px;">
+    🌱 Plants: 
+    <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="60" height="60" alt="Plants" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </li>
+  <li style="display:flex; align-items:center; gap:15px; margin-bottom:10px;">
+    🌍 Environment & sustainability: 
+    <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="60" height="60" alt="Environment" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </li>
+  <li style="display:flex; align-items:center; gap:15px; margin-bottom:10px;">
+    📚 Education & accessibility: 
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" height="60" alt="Education" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </li>
+  <li style="display:flex; align-items:center; gap:15px; margin-bottom:10px;">
+    💪 Fitness: 
+    <img src="https://media.giphy.com/media/xT9KVH4Ub9xQd3o6y0/giphy.gif" width="60" height="60" alt="Fitness" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </li>
+  <li style="display:flex; align-items:center; gap:15px; margin-bottom:10px;">
+    🧩 Puzzles & escape rooms: 
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60" height="60" alt="Puzzles" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </li>
+  <li style="display:flex; align-items:center; gap:15px; margin-bottom:10px;">
+    ⚡ Fun fact: Sometimes I say IPA instead of API — English is to blame, especially on Fridays 
+    <img src="https://media.giphy.com/media/3orieYbF3ka6kLrPrK/giphy.gif" width="60" height="60" alt="Fun fact" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </li>
 </ul>
 
 ---
