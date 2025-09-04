@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Violeta;Full-Stack+Developer+from+Madrid" alt="Typing Intro">
-
-  <p align="center"><em>Building accessible and inclusive web experiences with React, Vue, Flutter, and more.</em></p>
-
 </h1>
+  <p align="center"><em>Building accessible and inclusive web experiences with React, Vue, Flutter, and more.</em></p>
 
 After studying Primary Teaching and working as a SEND Tutor, I switched careers to become a Full-Stack Developer. I believe my experience makes me aware of the needs of people that might not have the voice to give feedback, and I can make a difference towards making sites more accessible to the users.
 
@@ -15,15 +13,14 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 
 ---
 
-<h3 align="left">Hobbies & Fun Facts</h3>
 <ul>
-  <li>🎮 Video games</li>
-  <li>🌱 Plants</li>
-  <li>🌍 Environment & sustainability</li>
-  <li>📚 Education & accessibility</li>
-  <li>💪 Fitness</li>
-  <li>🧩 Puzzles & escape rooms</li>
-  <li>⚡ Fun fact: Sometimes I say IPA instead of API — English is to blame, especially on Fridays</li>
+  <li>🎮 Video games <img src="https://img.shields.io/badge/Fun-High-ff69b4?style=flat-square" alt="Fun"/></li>
+  <li>🌱 Plants <img src="https://img.shields.io/badge/Relaxing-Yes-76c893?style=flat-square" alt="Plants"/></li>
+  <li>🌍 Environment & sustainability <img src="https://img.shields.io/badge/Impact-Positive-4caf50?style=flat-square" alt="Environment"/></li>
+  <li>📚 Education & accessibility <img src="https://img.shields.io/badge/Passion-High-f4c430?style=flat-square" alt="Education"/></li>
+  <li>💪 Fitness <img src="https://img.shields.io/badge/Healthy-Yes-ff4500?style=flat-square" alt="Fitness"/></li>
+  <li>🧩 Puzzles & escape rooms <img src="https://img.shields.io/badge/Challenging-Yes-1e90ff?style=flat-square" alt="Puzzles"/></li>
+  <li>⚡ Fun fact: Sometimes I say IPA instead of API — English is to blame!</li>
 </ul>
 
 ---
