@@ -9,8 +9,16 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
 - 👩‍💻 All of my projects are available at [my personal site](https://violeta.cique.es/)
 - 📫 How to reach me: **violeta@cique.es**
 - 🤝 I'm open to collaborating on any group projects that might interest me!
-- ⚡ Some of my hobbies/interests: video games, plants, environment, education and accessibility, fitness, puzzles, and escape rooms
-- ⚡ Fun fact: **Sometimes I say IPA instead of API — English is to blame, especially on Fridays 😅**
+
+---
+
+<h3 align="left">Hobbies & Fun Facts</h3>
+<p align="left">
+  🎮 Video games: <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" height="50"/>
+  🌱 Plants: <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="50" height="50"/>
+  🧩 Puzzles & Escape rooms: <img src="https://media.giphy.com/media/l41lYvUOmS0Cx4Lfa/giphy.gif" width="50" height="50"/>
+  ⚡ Fun fact: Sometimes I say IPA instead of API — <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="50" height="50"/>
+</p>
 
 ---
 
@@ -38,7 +46,6 @@ After studying Primary Teaching and working as a SEND Tutor, I switched careers 
   <!-- Tools / Design -->
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://slack.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="40" height="40"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira.svg" alt="Jira" width="40" height="40"/></a>
 
   <!-- Testing -->
   <a href="https://www.cypress.io/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/></a>
