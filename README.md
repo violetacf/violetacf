@@ -1,5 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Violeta;Full-Stack+Developer+from+Madrid" alt="Typing Intro">
+
+  <p align="center"><em>Building accessible and inclusive web experiences with React, Vue, Flutter, and more.</em></p>
+
 </h1>
 
 After studying Primary Teaching and working as a SEND Tutor, I switched careers to become a Full-Stack Developer. I believe my experience makes me aware of the needs of people that might not have the voice to give feedback, and I can make a difference towards making sites more accessible to the users.
